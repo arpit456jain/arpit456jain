@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Web Devlopment integrated with ML
 - 🤔 I’m looking for help with Data Science
 - 💬 Ask me about Python,Flask,Django
-- 📫 How to reach me: [linkedin:@ArpitJain](https://www.linkedin.com/in/arpit-jain-0b054a170)
+- 📫 How to reach me: [linkedin:@ArpitJain](https://www.linkedin.com/in/arpit-jain-0b054a170) , [Facebook:@Arpit](https://www.facebook.com/profile.php?id=100011460231562) , [Instagram@Arpit](https://www.instagram.com/111arpit1/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Marvel Fan
 
