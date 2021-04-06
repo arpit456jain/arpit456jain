@@ -1,7 +1,5 @@
 ### Hi there , I am Arpit Jain Nice to see you !!👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on open Soucre Contributions under Gssoc'21
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Web Devlopment integrated with ML
@@ -21,7 +19,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpit456jain" alt="arpit456jain" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [http://arpit4567jain.pythonanywhere.com/](http://arpit4567jain.pythonanywhere.com/)
+- 👨‍💻 All of my projects are available at my Portfolio website.
+-Check out here  [http://arpit4567jain.pythonanywhere.com/](http://arpit4567jain.pythonanywhere.com/)
+<img src="https://raw.githubusercontent.com/arpit456jain/arpit456jain/master/code.png">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
