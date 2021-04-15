@@ -28,7 +28,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arpit-jain-0b054a170" target="blank"><img align="center" src="Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /" alt="arpit-jain-0b054a170" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arpit-jain-0b054a170" target="blank"><img align="center" src="Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 <a href="https://fb.com/profile.php?id=100011460231562" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="profile.php?id=100011460231562" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aj15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aj15" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/111arpit1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="111arpit1" height="30" width="40" /></a>
