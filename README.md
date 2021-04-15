@@ -19,6 +19,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpit456jain" alt="arpit456jain" /></a> </p>
 
+<summary>:trophy: Github Profile Trophy</summary>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=arpit456jain&theme=monokai&row=1&no-frame=true&no-bg=true/">
+
+
 - 👨‍💻 All of my projects are available at my Portfolio website.
 -Check out here  [http://arpit4567jain.pythonanywhere.com/](http://arpit4567jain.pythonanywhere.com/)
 <img src="https://raw.githubusercontent.com/arpit456jain/arpit456jain/master/code.png">
