@@ -10,22 +10,22 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Marvel's Fan
 
-<img src="https://github-readme-stats.vercel.app/api?username=arpit4567jain&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=arpit456jain&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 
 <h3 align="center">A passionate Full-stack Web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit456jain&label=Profile%20views&color=0e75b6&style=flat" alt="arpit4567jain" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit456jain&label=Profile%20views&color=0e75b6&style=flat" alt="arpit456jain" /> </p>
 
 <summary>:trophy: Github Profile Trophy</summary>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=arpit4567jain&theme=monokai&row=1&no-frame=true&no-bg=true/">
+  <img src="https://github-profile-trophy.vercel.app/?username=arpit456jain&theme=monokai&row=1&no-frame=true&no-bg=true/">
 
 
 - 👨‍💻 All of my projects are available at my Portfolio website.
 -Check out here  [http://arpit4567jain.pythonanywhere.com/](http://arpit4567jain.pythonanywhere.com/)
-<img src="https://raw.githubusercontent.com/arpit4567jain/arpit4567jain/master/portfolio.png">
+<img src="https://raw.githubusercontent.com/arpit4567jain/arpit456jain/master/portfolio.png">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,7 +33,7 @@
 <a href="https://fb.com/https://www.facebook.com/people/arpit-jain/100011460231562/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/people/arpit-jain/100011460231562/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aj15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aj15" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/111arpit1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="111arpit1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/arpit4567jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="arpit4567jain" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/arpit456jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="arpit456jain" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/111arpit1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="111arpit1" height="30" width="40" /></a>
 </p>
 
@@ -43,12 +43,12 @@
 
 <summary>:chart_with_upwards_trend: Contribution Graph </summary>
    <br/>
-   <img src="https://activity-graph.herokuapp.com/graph?username=arpit4567jain&theme=xcode" alt="Contribution Graph" align="center" />
+   <img src="https://activity-graph.herokuapp.com/graph?username=arpit456jain&theme=xcode" alt="Contribution Graph" align="center" />
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpit4567jain&show_icons=true&locale=en&layout=compact" alt="arpit4567jain" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpit456jain&show_icons=true&locale=en&layout=compact" alt="arpit456jain" /></p>
 <br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpit4567jain&" alt="arpit4567jain" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpit456jain&" alt="arpit456jain" /></p>
 <br><br>
-<p><img align="center" src="https://grass-graph.moshimo.works/images/arpit4567jain.png" />
+<p><img align="center" src="https://grass-graph.moshimo.works/images/arpit456jain.png" />
 </p>
