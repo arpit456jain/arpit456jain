@@ -16,7 +16,7 @@
 
 <h3 align="center">A passionate Full-stack Web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit4567jain&label=Profile%20views&color=0e75b6&style=flat" alt="arpit4567jain" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit456jain&label=Profile%20views&color=0e75b6&style=flat" alt="arpit4567jain" /> </p>
 
 <summary>:trophy: Github Profile Trophy</summary>
   <br/>
