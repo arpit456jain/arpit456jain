@@ -15,6 +15,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=arpit456jain&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpit456jain&show_icons=true&locale=en&layout=compact" alt="arpit456jain" /></p>
+<br><br>
+<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=arpit456jain" alt="arpit456jain" /></p>
 
 <h3 align="center">A passionate Full-stack Web developer from India</h3>
 
@@ -49,13 +52,7 @@ Join Our CodeSmashers Community : <a href="https://discord.gg/gtYUZQSjTt"> <img 
    <img src="https://activity-graph.herokuapp.com/graph?username=arpit456jain&theme=xcode" alt="Contribution Graph" align="center" />
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpit456jain&show_icons=true&locale=en&layout=compact" alt="arpit456jain" /></p>
-<br><br>
-<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=arpit456jain" alt="arpit456jain" /></p>
-<br><br>
-<!-- <p><img align="center" src="https://grass-graph.moshimo.works/images/arpit456jain.png" />
-</p> -->
-
+<br>
 <p>
   <a href="https://github.com/arpit456jain" >  <img src="https://github.com/arpit456jain/arpit456jain/blob/output/github-contribution-grid-snake.gif" align="center" />  </a>
   </p>
