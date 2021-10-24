@@ -15,7 +15,7 @@
 <p>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arpit456jain&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
   <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=arpit456jain&theme=nightowl&hide_border=true&fire=DD2727" alt="arpit456jain" />
-  <img width="50%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=arpit456jain&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="arpit456jain" />
+  <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=arpit456jain&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="arpit456jain" />
 </p>
 
 <h3 align="center">A passionate Full-stack Web developer from India</h3>
