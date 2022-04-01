@@ -1,6 +1,7 @@
 ### Hi there , I am Arpit Jain Nice to see you !!👋
 
-- 🔭 I’m currently working as contributor in a open Soucre Contribution Program GWoC'21
+- 🔭 I’m currently working as Project Admin in a open Soucre Contribution Program GirlScript Summer Of Code
+- 🔭 I was the Project Admin and Mentor in a open Source Contribution Program GWoC'21
 - 🔭 I was the Project Admin in a open Source Contribution Program DevIncept
 - 🔭 I was the mentor in a open Soucre Contribution Program LGSMOC'21
 - 🔭 I’m the top Contributor in Gssoc'21
