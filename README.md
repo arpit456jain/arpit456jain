@@ -13,6 +13,8 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Marvel's Fan
 
+<a href="https://www.buymeacoffee.com/Arpit456Jain"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Arpit456Jain&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
 <p>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arpit456jain&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
   <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=arpit456jain&theme=nightowl&hide_border=true&fire=DD2727" alt="arpit456jain" />
