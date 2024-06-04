@@ -1,6 +1,6 @@
 ### Hi there , I am Arpit Jain Nice to see you !!👋
 
-- 🔭 I’m currently working as Project Admin in a open Source Contribution Program GirlScript Summer Of Code
+- 🔭 I was the Project Admin in a open Source Contribution Program GirlScript Summer Of Code
 - 🔭 I was the Project Admin and Mentor in a open Source Contribution Program GWoC'21
 - 🔭 I was the Project Admin in a open Source Contribution Program DevIncept
 - 🔭 I was the mentor in a open Source Contribution Program LGSMOC'21
