@@ -1,14 +1,12 @@
 ### Hi there , I am Arpit Jain Nice to see you !!👋
 
+- 🔭 I am Software developer at TCS having 2 year of experience.
 - 🔭 I was the Project Admin in a open Source Contribution Program GirlScript Summer Of Code
-- 🔭 I was the Project Admin and Mentor in a open Source Contribution Program GWoC'21
-- 🔭 I was the Project Admin in a open Source Contribution Program DevIncept
-- 🔭 I was the mentor in a open Source Contribution Program LGSMOC'21
 - 🔭 I’m the top Contributor in Gssoc'21
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on Web Devlopment integrated with ML
+- 🌱 I’m currently learning Langchain and LangGraph.
+- 👯 I’m looking to collaborate on Web Devlopment integrated with LLMs.
 - 🤔 I’m looking for help with Data Science
-- 💬 Ask me about Python,Flask,Django,Web Development
+- 💬 Ask me about React.js,Java,Python,Django,Web Development
 - 📫 How to reach me: [linkedin:@ArpitJain](https://www.linkedin.com/in/arpit-jain-0b054a170) , [Facebook:@Arpit](https://www.facebook.com/profile.php?id=100011460231562) , [Instagram@Arpit](https://www.instagram.com/111arpit1/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Marvel's Fan
