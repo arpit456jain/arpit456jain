@@ -11,7 +11,8 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Marvel's Fan
 
-<a href="https://www.buymeacoffee.com/Arpit456Jain"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Arpit456Jain&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy+me+a+coffee&slug=Arpit456Jain&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/Arpit456Jain)
+
 
 <p>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arpit456jain&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
@@ -49,7 +50,7 @@ Join Our CodeSmashers Community : <a href="https://discord.gg/gtYUZQSjTt"> <img 
 
 <summary>:chart_with_upwards_trend: Contribution Graph </summary>
    <br/>
-   <img src="https://activity-graph.herokuapp.com/graph?username=arpit456jain&theme=xcode" alt="Contribution Graph" align="center" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpit456jain&theme=xcode" alt="Contribution Graph" align="center" />
 
 
 <br>
